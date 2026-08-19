@@ -158,4 +158,3 @@ hive-mind-prompt-*.txt
 # Environment variables — block ALL .env variants except .example templates
 !.env.example
 !.env.*.example
-config.bat
